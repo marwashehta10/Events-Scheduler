@@ -1,0 +1,8 @@
+﻿  project.cpp
+C:\Users\Mustafa Elshamy\OneDrive\Desktop\Events-Scheduler\Project1\project.cpp(244,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mustafa Elshamy\OneDrive\Desktop\Events-Scheduler\Project1\project.cpp(277,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mustafa Elshamy\OneDrive\Desktop\Events-Scheduler\Project1\project.cpp(284,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mustafa Elshamy\OneDrive\Desktop\Events-Scheduler\Project1\project.cpp(291,19): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Mustafa Elshamy\OneDrive\Desktop\Events-Scheduler\Debug\Project1.exe
